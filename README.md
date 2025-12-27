@@ -13,18 +13,18 @@ Week-1 Internship Project
 - Pandas
 - GitHub
 # Workflow
-- Load and explore the ticket dataset
-- Clean ticket descriptions
-- Classify tickets into issue types:
+Load and explore the ticket dataset
+Clean ticket descriptions
+Classify tickets into issue types:
 - Login
 - Payment
 - Delivery
 - Refund
 - Bug
 - General
-- Assign priority levels (P0 – P3)
-- Calculate SLA response time (in hours)
-- Export final results as a CSV file
+Assign priority levels (P0 – P3)
+Calculate SLA response time (in hours)
+Export final results as a CSV file
 # Features
 - Text cleaning using Python
 - Rule-based issue classification
