@@ -16,8 +16,8 @@ Week-1 Internship Project
 - Load and explore the ticket dataset
 - Clean ticket descriptions
 - Classify tickets into issue types:
-- Login
-- Payment
+    - Login
+    - Payment
 - Delivery
 - Refund
 - Bug
