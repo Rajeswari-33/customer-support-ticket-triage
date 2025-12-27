@@ -1,6 +1,5 @@
 # customer-support-ticket-triage
 Week-1 Internship Project
-# Customer Support Ticket Triage System
 # Project Overview
 - This project implements a rule-based Customer Support Ticket Triage System as part of a Week-1 Internship Project.
 - It automates the initial processing of customer support tickets by cleaning text, identifying issue types, assigning priority levels, and calculating SLA response times.
@@ -18,10 +17,10 @@ Week-1 Internship Project
 - Classify tickets into issue types:
     - Login
     - Payment
-- Delivery
-- Refund
-- Bug
-- General
+    - Delivery
+    - Refund
+    - Bug
+    - General
 - Assign priority levels (P0 – P3)
 - Calculate SLA response time (in hours)
 - Export final results as a CSV file
